@@ -3,7 +3,7 @@
 	<Sirens>
     <Item>
       <id value="436154"/> 
-      <name>tan150</name>
+      <name>LSPD150</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="125.00000000"/>
       <lightFalloffExponent value="125.00000000"/>
